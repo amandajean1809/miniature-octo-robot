@@ -19,6 +19,6 @@
   "homepage": "https://github.com/amandajean1809/miniature-octo-robot#readme",
   "dependencies": {
     "express": "^4.16.4",
-    "mongoose": "^5.3.6"
+    "mongoose": "^5.7.5"
   }
 }
